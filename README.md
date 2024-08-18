@@ -1,6 +1,4 @@
-# CodeClause_Brain-Tumor-Detection
-
-<h3>TASK 3</h3>
+# Brain-Tumor-Detection
 
 Name of project:-  Brain tumor Detection
 
